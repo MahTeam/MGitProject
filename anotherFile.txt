@@ -1,2 +1,3 @@
 Hey i am adding another file to branch AnotherFile.txt...we will check that 
 soon 
+intended to create conflict.
